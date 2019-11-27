@@ -1,0 +1,38 @@
+body{
+      font-family: 'Oswald', sans-serif;
+      height: 100vh;
+}
+.cia-header{
+      
+      height: 200px;
+      
+}
+.cia-label{
+      font-size: 30px;
+      padding-left: 25px;
+      margin-top: 25px;
+}
+.cia-calc1{
+      font-size: 20px;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-top: 5px;
+}
+.cia-calc2{
+      font-size: 20px;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-top: 5px;
+}
+.cia-p{
+      font-size: 20px;
+}
+.cia-end{
+      font-size: 25px;
+}
+.cia-calc3{
+      font-size: 15px;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-top: 5px;
+}
